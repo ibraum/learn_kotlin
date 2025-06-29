@@ -55,6 +55,4 @@ fun main () {
     println(text1.toBoolean())
     println(text1.toCharArray()) // == println(text1)
     println(text1[0])
-
-    
 }
